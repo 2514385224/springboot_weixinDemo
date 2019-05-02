@@ -93,13 +93,13 @@ public class MenuController {
         //第一栏菜单
         Menu menu1=new Menu();
         menu1.setId("1");
-        menu1.setName("第一栏");
+        menu1.setName("菜单栏一");
         menu1.setType("click");
         menu1.setKey("1");
 
         Menu menu11=new Menu();
         menu11.setId("11");
-        menu11.setName("第一栏的第一个v3");
+        menu11.setName("第一栏的第一个");
         menu11.setType("click");
         menu11.setKey("11");
 
@@ -112,7 +112,7 @@ public class MenuController {
         //第二栏
         Menu menu2=new Menu();
         menu2.setId("2");
-        menu2.setName("第二栏");
+        menu2.setName("菜单栏二");
         menu2.setType("click");
         menu2.setKey("2");
 
@@ -123,7 +123,7 @@ public class MenuController {
         menu21.setKey("21");
 
 
-
+        
         Menu menu3=new Menu();
         menu3.setId("3");
         menu3.setName("第三栏");
